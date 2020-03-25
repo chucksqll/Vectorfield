@@ -63,7 +63,7 @@ def draw(name,fir_coord_func, sec_coord_func,area,density,vector_scale,vector_th
 
 
 ###EXAMPLE###
-#Vector field F(x,y)=(cosy,sinx)
+#Vector field F(x,y)=(cosx,siny)
 ######
 def first_func(x,y):
     return np.cos(x)
